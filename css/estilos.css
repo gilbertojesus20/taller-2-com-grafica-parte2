@@ -1,39 +1,37 @@
 canvas {
-    display: block;
-    margin-top: 30px;
-    margin-left: auto;
-    margin-right: auto;
-    border: 1px solid red;
-    border-radius: 10px;
-    width:500px;
-    height: 500px;
+  display: block;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid red;
+  border-radius: 10px;
+  width: 500px;
+  height: 500px;
 }
 
-h1{
-    text-align: center;
-    font: poppins;
+h1 {
+  text-align: center;
+  font: poppins;
 }
 
 body {
-    font-family: "Poppins", serif;
-  }
-
+  font-family: "Poppins", serif;
+}
 
 .footer-basic {
-    padding:40px 0;
-    background-color:#ffffff;
-    color:#4b4c4d;
-  }
-  
+  padding: 40px 0;
+  background-color: #ffffff;
+  color: #4b4c4d;
+}
 
-  .footer-basic .social > a:hover {
-    opacity:0.9;
-  }
-  
-  .footer-basic .copyright {
-    margin-top:15px;
-    text-align:center;
-    font-size:13px;
-    color:#aaa;
-    margin-bottom:0;
-  }
+.footer-basic .social > a:hover {
+  opacity: 0.9;
+}
+
+.footer-basic .copyright {
+  margin-top: 15px;
+  text-align: center;
+  font-size: 13px;
+  color: #aaa;
+  margin-bottom: 0;
+}
